@@ -31,14 +31,6 @@ Footprinting is a part of the reconnaissance process which is used for gathering
 
 ![Screenshot 2025-03-10 112041](https://github.com/user-attachments/assets/1e7c3f9a-8a1b-47bd-9540-eba4a8d45851)
 
-
-## Finding IP Address:
-ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of facebook.com.
-
-## OUTPUT
-
-![414e3009987943b0a5f0fa1c2d3ddc14 1](https://github.com/user-attachments/assets/56eb42ef-47d4-43c0-9bae-6aeb5e163c03)
-
 ## Finding Hosting Company
 get further detail by using ip2location.com website.
 
